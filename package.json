@@ -1,0 +1,26 @@
+{
+  "name": "express-tracking-id",
+  "version": "1.0.0",
+  "description": "Simple middleware to add support tracking id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HappyZombies/express-tracking-id.git"
+  },
+  "keywords": [
+    "tracking",
+    "id",
+    "express"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HappyZombies/express-tracking-id/issues"
+  },
+  "homepage": "https://github.com/HappyZombies/express-tracking-id#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
